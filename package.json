@@ -1,6 +1,6 @@
 {
   "name": "google-libphonenumber-full-ge-support",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The up-to-date and reliable Google's libphonenumber package for node.js.",
   "author": {
     "name": "Temuri Kitoshvili",
@@ -31,7 +31,7 @@
     "mocha": "--require should test"
   },
   "scripts": {
-    "build": "bin/build.sh",
+    "build": "sh bin/build.sh",
     "lint": "eslint src/index.js test",
     "prepare": "npm run build",
     "test": "npm run build && npm run testonly",
