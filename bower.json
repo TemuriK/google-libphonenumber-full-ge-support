@@ -1,6 +1,6 @@
 {
   "name": "google-libphonenumber-full-ge-support",
-  "description": "The up-to-date and reliable Google's libphonenumber package for node.js.",
+  "description": "This is the fork version of Google's libphonenumber package for node.js. We have added additional Georgian phone number prefixes",
   "homepage": "https://github.com/TemuriK/google-libphonenumber-full-ge-support/",
   "author": {
     "name": "Temuri Kitoshvili",
@@ -20,7 +20,11 @@
     "phonenumber",
     "rfc3966",
     "standardize",
-    "wrapper"
+    "wrapper",
+    "georgianphonenumber",
+    "georgian phonenumber",
+    "georgianphonenumberformat",
+    "georgian phonenumber format"
   ],
   "ignore": [
     ".eslintignore",

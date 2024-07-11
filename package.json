@@ -1,7 +1,7 @@
 {
   "name": "google-libphonenumber-full-ge-support",
-  "version": "0.0.3",
-  "description": "The up-to-date and reliable Google's libphonenumber package for node.js.",
+  "version": "0.0.6",
+  "description": "This is the fork version of Google's libphonenumber package for node.js. We have added additional Georgian phone number prefixes",
   "author": {
     "name": "Temuri Kitoshvili",
     "email": "temuri.kitoshvili.dev@gmail.com"
@@ -25,7 +25,11 @@
     "phonenumber",
     "rfc3966",
     "standardize",
-    "wrapper"
+    "wrapper",
+    "georgianphonenumber",
+    "georgian phonenumber",
+    "georgianphonenumberformat",
+    "georgian phonenumber format"
   ],
   "options": {
     "mocha": "--require should test"
