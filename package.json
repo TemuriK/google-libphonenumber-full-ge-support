@@ -1,6 +1,6 @@
 {
   "name": "google-libphonenumber-full-ge-support",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The up-to-date and reliable Google's libphonenumber package for node.js.",
   "author": {
     "name": "Temuri Kitoshvili",
