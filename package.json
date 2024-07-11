@@ -1,17 +1,16 @@
 {
-  "name": "google-libphonenumber",
-  "version": "3.2.36",
+  "name": "google-libphonenumber-full-ge-support",
+  "version": "0.0.1",
   "description": "The up-to-date and reliable Google's libphonenumber package for node.js.",
   "author": {
-    "name": "Rui Marinho",
-    "email": "ruipmarinho@gmail.com"
+    "name": "Temuri Kitoshvili",
+    "email": "temuri.kitoshvili.dev@gmail.com"
   },
-  "license": "(MIT AND Apache-2.0)",
-  "homepage": "https://ruimarinho.github.io/google-libphonenumber/",
-  "bugs": "https://github.com/ruimarinho/google-libphonenumber/issues",
+  "license": "MIT",
+  "homepage": "https://github.com/TemuriK/google-libphonenumber-full-ge-support/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruimarinho/google-libphonenumber.git"
+    "url": "https://github.com/TemuriK/google-libphonenumber-full-ge-support.git"
   },
   "main": "dist/libphonenumber.js",
   "keywords": [
